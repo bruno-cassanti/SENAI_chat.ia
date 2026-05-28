@@ -116,6 +116,6 @@ st.markdown(
         <hr>
         <p>SENAI IA Chatbot - Parte Integrante do Curso Gratuito FIC IAG aplicada à Programação com ChatGPT</p>
     </div>
-    """,
+    """, 
     unsafe_allow_html=True
 )
